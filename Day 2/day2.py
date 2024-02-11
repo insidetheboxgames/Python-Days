@@ -1,4 +1,4 @@
-#Day 2
+#Day 2 - 30 Day Challenge: Variables
 first_name = 'f_name'
 last_name = 'l_name'
 full_name = 'ful_name'
