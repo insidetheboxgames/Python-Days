@@ -1,4 +1,4 @@
-#day 14 - 30 Day challenge: List Comprehension
+#day 14 - 30 Day challenge: Higher Order Functions
 
 # map: built in function that takes a function and an iterable as parameters
 # Think iterating over a list
