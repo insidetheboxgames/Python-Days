@@ -1,4 +1,4 @@
-#day 12 - 30 Day challenge: List Comprehension
+#day 13 - 30 Day challenge: List Comprehension
 numbers = [-4, -3, -2, -1, 0, 2, 4, 6]
 not_pos_nums = list(filter(lambda x: x<= 0, numbers))
 print(not_pos_nums)
