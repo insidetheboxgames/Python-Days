@@ -1,4 +1,4 @@
-#day 14 - 30 Day challenge: Python Type Errors
+#day 15 - 30 Day challenge: Python Type Errors
 
 # Types of Errors
 # Syntax Error: forgetting to enclose with parenthesis
